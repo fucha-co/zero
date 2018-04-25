@@ -4,7 +4,7 @@ type = "page"
 [[blocks]]
 button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
-heading = "Let's Get Started"
+heading = "Wow really?"
 template = "call-to-action"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
