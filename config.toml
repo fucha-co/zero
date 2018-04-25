@@ -6,8 +6,8 @@ title = "Sawmill"
 name = "DJ Walker"
 [[menu.main]]
 name = "Twitter"
-url = "twitter.com/mobilemuster1"
-weight = 1
+url = "https://twitter.com/mobilemuster1"
+weight = 2
 [[menu.main]]
 name = "View on Github"
 url = "https://github.com/dwalkr/sawmill"
