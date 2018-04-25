@@ -2,6 +2,11 @@
 title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
 type = "page"
 [[blocks]]
+button_text = "View on Github"
+button_url = "https://github.com/dwalkr/sawmill"
+heading = "Let's Get Started"
+template = "call-to-action"
+[[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
 background_style = "Dark"
 heading = "Sawmill"
@@ -39,10 +44,5 @@ image = "/uploads/2018/04/19/blocks-ss.png"
 image_position = "Left"
 image_shadow = true
 template = "media-feature"
-[[blocks]]
-button_text = "View on Github"
-button_url = "https://github.com/dwalkr/sawmill"
-heading = "Let's Get Started"
-template = "call-to-action"
 
 +++
