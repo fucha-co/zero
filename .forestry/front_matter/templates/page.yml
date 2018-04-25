@@ -1,5 +1,6 @@
 ---
 pages:
+- test-page.md
 - _index.md
 hide_body: true
 is_partial: false
